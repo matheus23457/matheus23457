@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @matheus23457
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+# sobre mim
+
+## editando perfil
+
+###### teste
+
+-  Ola Eu Sou @matheus23457
+-  O meu email e matheus.paula.anjos@escola.pr.gov.br
+- 👀eu estou  interessado em aprender a programar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-matheus23457/matheus23457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
